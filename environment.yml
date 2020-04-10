@@ -1,6 +1,7 @@
-bqplot
-ipympl
-ipyvolume
-scipy
-numpy
-voila
+name: nam
+dependencies:
+- bqplot
+- ipympl
+- ipyvolume
+- scipy
+- voila
